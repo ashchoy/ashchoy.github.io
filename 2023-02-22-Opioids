@@ -1,0 +1,8 @@
+layout: post
+title: "Opioids"
+date: 2023-02-22 hh:mm:ss -0000
+categories: OPIOID DATA
+
+
+fig.write_image("fig2.png")
+fig.show()
